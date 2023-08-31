@@ -1,5 +1,5 @@
 # MCQ-s-Creator-App
-Welcome to the MCQ Creator App ReadMe! This document will guide you through the setup, features, and usage of our app, which leverages OpenAI, Hugging Face, Pinecone, and PDF parsing to create multiple-choice questions (MCQs) effectively.
+Welcome to the MCQ Creator App ReadMe! This document will guide you through the  features, and usage of our app, which leverages OpenAI, Hugging Face, Pinecone, and PDF parsing to create multiple-choice questions (MCQs) effectively.
 
 
 # Introduction
